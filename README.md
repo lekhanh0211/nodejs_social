@@ -17,3 +17,6 @@
 - git push origin master
 
 - npm i express
+
+## 10
+tsc --init
