@@ -24,4 +24,6 @@ tsc --init
 # 11
 
 - yarn add express
-- yarn add @types/express --dev để 
+- yarn add @types/express --dev 
+- yarn add typescript nodemon ts-node --dev
+- yarn add dotenv
