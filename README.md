@@ -11,4 +11,9 @@
 
 - Open terminal command window: Ctrl + `
 - npm init or yarn init
+- git init
+- git commit -m "Initial Commit"
+- git add *
+- git push origin master
+
 - npm i express
