@@ -20,3 +20,8 @@
 
 ## 10
 tsc --init
+
+# 11
+
+- yarn add express
+- yarn add @types/express --dev để 
