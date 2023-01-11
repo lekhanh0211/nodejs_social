@@ -1,0 +1,8 @@
+{
+  "name": "NodeJs_Tedu",
+  "version": "1.0.0",
+  "description": "A mini social network for LDK ",
+  "main": "src/server.ts",
+  "author": "Le Duy Khanh",
+  "license": "MIT"
+}
